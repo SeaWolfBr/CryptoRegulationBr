@@ -1,0 +1,1 @@
+Este repositório tem por objetivo consolidar, organizar e atualizar a regulação aplicável aos criptoativos, tokens digitais e moedas digitais de banco central (CBDCs), com enfoque comparado entre jurisdições.
